@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\ByPassAV\ByPassAV\ByPassAV\bin\Debug\ByPassAV.exe
+C:\Users\admin\Desktop\ByPassAV\ByPassAV\ByPassAV\bin\Debug\ByPassAV.pdb
+C:\Users\admin\Desktop\ByPassAV\ByPassAV\ByPassAV\obj\Debug\ByPassAV.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ByPassAV\ByPassAV\ByPassAV\obj\Debug\ByPassAV.fByPass.resources
+C:\Users\admin\Desktop\ByPassAV\ByPassAV\ByPassAV\obj\Debug\ByPassAV.Properties.Resources.resources
+C:\Users\admin\Desktop\ByPassAV\ByPassAV\ByPassAV\obj\Debug\ByPassAV.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ByPassAV\ByPassAV\ByPassAV\obj\Debug\ByPassAV.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ByPassAV\ByPassAV\ByPassAV\obj\Debug\ByPassAV.exe
+C:\Users\admin\Desktop\ByPassAV\ByPassAV\ByPassAV\obj\Debug\ByPassAV.pdb
+C:\Users\admin\Desktop\ByPassAV\ByPassAV\ByPassAV\bin\Debug\ByPassAV.exe.config
